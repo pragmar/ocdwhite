@@ -17,4 +17,4 @@ MIDDLEWARE_CLASSES = (
 }}}
 
 For examples of production use, refer to:
- * [http://weathertronic.com weathertronic]
+ * [weathertronic](http://weathertronic.com)
