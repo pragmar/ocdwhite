@@ -9,12 +9,12 @@ This middleware uses the lxml python package which is built on the super-fast li
 
 To add to a project, open up settings and point at the OCDWhiteMiddleware.
 
-{{{
+```
 MIDDLEWARE_CLASSES = (
     ...
     '<path>.ocdwhite.OCDWhiteMiddleware',
 )
-}}}
+```
 
 For examples of production use, refer to:
  * [weathertronic](http://weathertronic.com)
