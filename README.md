@@ -1,7 +1,7 @@
 ocdwhite
 ========
 
-Django HTML Pretty Print Mddleware
+Django HTML Pretty Print Middleware
 
 Django templates are great, but the better they look the worse the HTML outputs. There's no reason to not have both readable templates and HTML output that doesn't look like whitespace vomit. 
 
