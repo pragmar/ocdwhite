@@ -1,4 +1,3 @@
-
 """
 Django middleware to pretty print html output - uses xslt to prettyprint html
 assumes lxml present
@@ -8,7 +7,6 @@ import logging
 import traceback
 import lxml.html
 import lxml.etree
-
 
 DOCTYPE_PUBLIC = '-//W3C//DTD HTML'
 DOCTYPE_SYSTEM = ''
