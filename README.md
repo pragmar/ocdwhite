@@ -20,4 +20,5 @@ MIDDLEWARE_CLASSES = (
 
 For examples of production use, refer to:
  * [weathertronic](http://weathertronic.com)
+ * [ohdowas.com](ohdowas.com)
 
